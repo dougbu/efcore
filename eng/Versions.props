@@ -29,5 +29,6 @@
   </PropertyGroup>
   <PropertyGroup Label="Other dependencies">
     <MicrosoftCodeAnalysisVersion>4.2.0</MicrosoftCodeAnalysisVersion>
+    <XUnitVersion>2.4.2</XUnitVersion>
   </PropertyGroup>
 </Project>
